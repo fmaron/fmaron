@@ -1,5 +1,8 @@
 <p align="center">
-    <img src = "assets/img/portfolio/portfolio_icon.png)">
+    <img src = "assets/img/portfolio/avataaars.png">
+</p>
+
+<p align="center">
     <a href="https://fmaron.github.io/fmaron/" target="_blank">Portfolio</a>
 </p>
 
