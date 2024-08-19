@@ -8,7 +8,7 @@
 
 <h1 align="center"> About me </h1>
 
-I am an Environmental Scientist with a Masters degree in Marine Science and Management from the University of Sydney. I am currently studying a Masters degree in Data Science at the University of Adelaide.
+I am an Environmental Scientist with a Masters degree in Marine Science and Management from the University of Sydney, and a Masters degree in Data Science from the University of Adelaide.
 
 
 ![](assets/img/portfolio/banner.png)
